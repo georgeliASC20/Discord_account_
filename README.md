@@ -9,7 +9,7 @@ Proof of concept of how Discord accounts can be created without the need to type
 A script that automates creating discord accounts. It shows how accounts can be created automatically without the user typing unless there is a captcha. This is used for educational purposes only
 
 ## Preview
-![Picture](https://i.ibb.co/dKQcR02/Captura.png)
+![Picture](https://i.ibb.co/dKQcR02/Discord-generator.png)
 
 ## Usage
 1. You can customize usernames by editing the usernames in discord_usernames.txt.
